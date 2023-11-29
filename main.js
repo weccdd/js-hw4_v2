@@ -34,7 +34,7 @@ coursesArray(coursesTitleArray);
 
 // - створити функцію яка створює параграф з текстом. Текст задати через аргумент
 function makeParagraph(p){
-    document.write(`<p>${p}</p`);
+    document.write(`<p>${p}</p>`);
 }
 makeParagraph("lorem ipsum");
 // - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий
